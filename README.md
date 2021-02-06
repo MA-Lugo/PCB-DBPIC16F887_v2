@@ -3,6 +3,7 @@ Development Board based on Microchip PIC16F887 8-Bit MCU
 
 
 _Tarjeta de desarrollo basada en PIC16F887 (sistema mínimo)_
+
 ![](https://drive.google.com/uc?export=view&id=19XBJ0QlMIHbg9vegWUGyEqXRTqxzBaFq)
 
 ## Comenzando 🚀
@@ -19,6 +20,9 @@ Tambíen puedes ver una animación [aquí.](https://drive.google.com/file/d/1QHl
 ## Lista de Componentes 📖
 
 ## Ensable 🛠️
+
+![](https://drive.google.com/uc?export=view&id=1PCVJMS5OCVGcx2QpUUYAr0coXK0wAjF2)
+
 
 ## Autor ✒️
 
