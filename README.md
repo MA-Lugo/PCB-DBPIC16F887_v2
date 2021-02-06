@@ -15,7 +15,7 @@ _Tarjeta de desarrollo basada en PIC16F887 (sistema mínimo)_
 
 Puedes encontrar el esquemático [aquí.](https://drive.google.com/uc?export=view&id=1uyhpvZt8SFJf6NlxQCLjJcooKPEDv15b)
 
-Tambíen puedes ver una animación [aquí.](https://drive.google.com/file/d/1QHlnzEpKdIGHd3vUw8_0l875WwWYaZXf/view?usp=sharing)
+Tambíen puedes ver una animación [aquí.](https://drive.google.com/file/d/1NO_eVydhyPA-O2Zp3BOySrAR04YveleB/view?usp=sharing)
 
 ## Lista de Componentes 📖
 
