@@ -6,7 +6,7 @@ _Tarjeta de desarrollo basada en PIC16F887 (sistema mínimo)_
 
 ![](https://drive.google.com/uc?export=view&id=1yVWt3oSvShM6cuBQZa5PdpuczYuV1JDe)
 ![](https://drive.google.com/uc?export=view&id=19XBJ0QlMIHbg9vegWUGyEqXRTqxzBaFq)
-
+![](https://drive.google.com/uc?export=view&id=1tUT3fXrc_52-UGrVmtsDX309Ys3pfLEU)
 
 ## Comenzando 🚀
 ### Pre-requisitos 📋
